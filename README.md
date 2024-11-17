@@ -1,10 +1,10 @@
-# weather_app
+# Weather App
 
-A weather app.
+A simple weather app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for my first Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
